@@ -5,7 +5,7 @@
 
 **1.** : Created a detailed pizza sales Dashboard _[Pizza Sales Dashboard](https://github.com/RoopaGanapur/Pizza-Sales-Project-EXCEL-SQL/blob/main/Excel%20Pizza%20Sales%20Dashboard.pdf)_ to empower businesses in evaluating sales activities.
 
-**2.** Detailed SQL Queries : To test the values that we got from Excel  _[SQl Queries](https://github.com/RoopaGanapur/Excel_Sales_Analytics/blob/main/Market%20PerformanceVS%20Target.pdf)_ 
+**2.** Detailed SQL Queries : To test the values that we got from Excel  _[SQl Queries](https://github.com/RoopaGanapur/Pizza-Sales-Project-EXCEL-SQL/blob/main/PIZZASALES-SQL.pdf)_ 
 
 ## Purpose of Sales Analytics:
 Empower businesses to monitor, evaluate, and optimize their sales strategies effectively.
